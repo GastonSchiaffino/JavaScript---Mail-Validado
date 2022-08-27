@@ -6,4 +6,4 @@ Ingreso de mails con validaciones de usuario.
 https://emailvalidado.netlify.app/
 
 ### :tv: Home Screen 
-![home](/assets/homescreen-formularioValidado.png)
+![home](/assets/homescreen-formularioValidado.PNG)
