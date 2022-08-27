@@ -1,3 +1,8 @@
 # JavaScript---Mail-Validado
 
-Dominio para ver funcionalidad del proyecto: https://emailvalidado.netlify.app/
+Ingreso de mails con validaciones de usuario.
+
+### Deploy
+https://emailvalidado.netlify.app/
+
+### Home Screen
