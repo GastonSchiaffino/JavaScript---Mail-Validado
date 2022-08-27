@@ -2,7 +2,8 @@
 
 Ingreso de mails con validaciones de usuario.
 
-### Deploy
+### :globe_with_meridians: Deploy
 https://emailvalidado.netlify.app/
 
-### Home Screen
+### :tv: Home Screen 
+![home](/assets/homescreen-formularioValidado.png)
